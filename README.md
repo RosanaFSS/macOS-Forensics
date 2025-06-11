@@ -4,4 +4,4 @@
 ➜ [macOS Forensics: The Basics.md]()<br>
 ➜ [macOS Forensics: Artefacts]()<br>
 ➜ [macOS Forensics: Applications]()<br>
-➜ [Maz Hunt]()<br>
+➜ [Mac Hunt]()<br>
