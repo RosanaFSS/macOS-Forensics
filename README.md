@@ -4,4 +4,4 @@
 ➜ [macOS Forensics: The Basics.md](https://github.com/RosanaFSS/DFIR---macOS-Forensics/blob/main/1%20.%20macOS%20Forensics:%20The%20Basics.md)<br>
 ➜ [macOS Forensics: Artefacts](https://github.com/RosanaFSS/DFIR---macOS-Forensics/blob/main/2%20.%20macOS%20Forensics:%20Artefacts.md)<br>
 ➜ [macOS Forensics: Applications]()<br>
-➜ [Mac Hunt]()<br>
+➜ [Mac Hunt](https://github.com/RosanaFSS/DFIR---macOS-Forensics/blob/main/4%20.%20Mac%20Hunt.md)<br>
